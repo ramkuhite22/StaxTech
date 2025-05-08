@@ -1,2 +1,2 @@
-# StaxTech
- Simple projects for internship
+# MICRO-IIT
+ make for add internship projects
